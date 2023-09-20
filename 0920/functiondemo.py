@@ -18,3 +18,7 @@ end = 70
 # calc_sum(45, 8989)
 result = calc_sum(start, end)
 print("%d부터 %d까지의 합은 %d 입니다."%(start,end,result))
+
+#Call by Name
+#Call by Value -> immutable type
+#Call by Reference -> mutable type
